@@ -1,4 +1,3 @@
-# COEN316Labs
 # Multi-Port Register File for CPU Datapath
 
 ## Overview
